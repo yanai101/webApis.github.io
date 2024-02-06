@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      .section {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        color: white;
+      }
+
+      #section1 {
+        background-color: red;
+      }
+
+      #section2 {
+        background-color: blue;
+      }
+
+      #section3 {
+        background-color: green;
+      }
+
+      #section4 {
+        background-color: yellow;
+        color: black;
+      }
+
+      #section5 {
+        background-color: purple;
+      }
+      .fixDiv {
+        width: 30%;
+        background-color: aliceblue;
+        color: blueviolet;
+        padding: 10px;
+        font-size: 3em;
+        position: fixed;
+        top: 3%;
+        left: 30%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="fixDiv"></div>
+    <section id="section1" class="section">Section 1</section>
+    <section id="section2" class="section">Section 2</section>
+    <section id="section3" class="section">Section 3</section>
+    <section id="section4" class="section">Section 4</section>
+    <section id="section5" class="section">Section 5</section>
+
+    <script src="script.js"></script>
+  </body>
+</html>

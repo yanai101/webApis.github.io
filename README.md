@@ -8,10 +8,10 @@ Thanks again, and I hope to see you next time.
 [Slide](./assets/reversim24Slide.pdf)
 
 Yanai Edri
+
 [![Linkedin](./assets/icons8-linkedin-circled-48.png)]([https://www.linkedin.com/in/yanaiedri/])
 [![X(Twitter)](./assets/icons8-twitterx-48.png)]([https://twitter.com/yanaiEdri])
 [![Medium](./assets/icons8-medium-48.png)]([https://medium.com/@yedri])
-[![Facebook](./assets/icons8-facebook-48.png)]([https://www.facebook.com/yanai.edri])
 
 Telegram channel for update:
 [![WebWeekly](./assets/webWeekly.png)]([https://t.me/webWekkly])
@@ -30,7 +30,7 @@ https://ckeditor.github.io/labs/shape-detection-api/
 webOTP
 https://jsfh2.csb.app/
 
-Web Authentication API
+Web Authentication API
 https://webauthn.io/
 
 Additional resources

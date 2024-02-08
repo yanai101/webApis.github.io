@@ -14,6 +14,7 @@ Yanai Edri
 [![Medium](./assets/icons8-medium-48.png)]([https://medium.com/@yedri])
 
 Telegram channel for update:
+
 [![WebWeekly](./assets/webWeekly.png)]([https://t.me/webWekkly])
 
 ## Links

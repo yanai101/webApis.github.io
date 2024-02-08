@@ -17,6 +17,17 @@ Telegram channel to be updated:
 
 [![WebWeekly](./assets/webWeekly.png)]([https://t.me/webWekkly])
 
+## Demo links
+
+[speechRecognition](./speechRecognition/index.html) - In Hebrew:
+למעלה / למטה / לך להתחלה / לך לסוף
+
+[gamePadApi](./gamePadApi/index.html)
+
+[vibration](./vibration/index.html)
+
+[webXr - \<model-viewer\> element](./webXr/index.html)
+
 ## Links
 
 SpeechSynthesis

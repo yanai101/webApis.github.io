@@ -30,21 +30,18 @@ Telegram channel to be updated:
 
 ## Links
 
-SpeechSynthesis
-https://mdn.github.io/dom-examples/web-speech-api/speak-easy-synthesis/
+[SpeechSynthesis](https://mdn.github.io/dom-examples/web-speech-api/speak-easy-synthesis/)
 
-dcument-picture-in-picture-api
-https://lazy-guy.github.io/tomodoro/index.html
+dcument-picture-in-picture-api [Link1](https://lazy-guy.github.io/tomodoro/index.html) [Link2](https://document-picture-in-picture-api.glitch.me/)
 
-Shape-detection-api demo
-https://ckeditor.github.io/labs/shape-detection-api/
+[Shape-detection-api demo](https://ckeditor.github.io/labs/shape-detection-api/)
 
-webOTP
-https://jsfh2.csb.app/
+[webOTP](https://jsfh2.csb.app/)
 
-Web Authentication API
-https://webauthn.io/
+[Web Authentication API](https://webauthn.io/)
 
-Additional resources
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.chrome.com/
+#### Additional resources
+
+[https://developer.mozilla.org/en-US/docs/Web/API](https://developer.mozilla.org/en-US/docs/Web/API)
+
+[https://developer.chrome.com/](https://developer.chrome.com/)

@@ -9,13 +9,13 @@ Thanks again, and I hope to see you next time.
 
 Yanai Edri
 
-[![Linkedin](./assets/icons8-linkedin-circled-48.png)]([https://www.linkedin.com/in/yanaiedri/])
-[![X(Twitter)](./assets/icons8-twitterx-48.png)]([https://twitter.com/yanaiEdri])
-[![Medium](./assets/icons8-medium-48.png)]([https://medium.com/@yedri])
+[![Linkedin](./assets/icons8-linkedin-circled-48.png)](https://www.linkedin.com/in/yanaiedri/)
+[![X(Twitter)](./assets/icons8-twitterx-48.png)](https://twitter.com/yanaiEdri)
+[![Medium](./assets/icons8-medium-48.png)](https://medium.com/@yedri)
 
 Telegram channel to be updated:
 
-[![WebWeekly](./assets/webWeekly.png)]([https://t.me/webWekkly])
+[![WebWeekly](./assets/webWeekly.png)](https://t.me/webWekkly)
 
 ## Demo links
 

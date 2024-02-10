@@ -15,7 +15,7 @@ Yanai Edri
 
 Telegram channel to be updated:
 
-[![WebWeekly](./assets/webWeekly.png)](https://t.me/webWekkly)
+[![WebWeekly](./assets/telegram.jpeg)](https://t.me/webWekkly)
 
 ## Demo links
 
@@ -39,6 +39,12 @@ dcument-picture-in-picture-api [Link1](https://lazy-guy.github.io/tomodoro/index
 [webOTP](https://jsfh2.csb.app/)
 
 [Web Authentication API](https://webauthn.io/)
+
+[WebGPU - samples](https://webgpu.github.io/webgpu-samples/samples/particles)
+
+[\<model-viewer\>](https://modelviewer.dev/examples/augmentedreality/index.html)
+
+[chrome status](https://chromestatus.com/features#shape)
 
 #### Additional resources
 

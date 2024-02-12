@@ -15,7 +15,7 @@ Yanai Edri
 
 Telegram channel to be updated:
 
-[![WebWeekly](./assets/telegram.jpeg){:height="65px" width="65px"}](https://t.me/webWekkly)
+[![WebWeekly](./assets/telegram.jpeg){:width="150px"}](https://t.me/webWekkly)
 
 ## Demo links
 

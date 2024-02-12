@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Notification Form</title>
+    <style>
+      body {
+        display: grid;
+        height: 100vh;
+        place-items: center;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-self: center;
+        align-self: start;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Notification Form</h1>
+
+    <form id="notificationForm">
+      <label for="notificationTitle">Title:</label>
+      <input type="text" id="notificationTitle" name="notificationTitle" required />
+
+      <label for="notificationBody">Body:</label>
+      <textarea id="notificationBody" name="notificationBody" required></textarea>
+      <br />
+      <button type="submit">Show Notification</button>
+    </form>
+
+    <script>
+      document.getElementById("notificationForm").addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        const title = document.getElementById("notificationTitle").value;
+        const body = document.getElementById("notificationBody").value;
+
+        if (Notification.permission === "granted") {
+          new Notification(title, {
+            body,
+            icon: "../assets/telegram.jpeg",
+            badge: "../assets/webWeekly.png",
+          });
+        } else if (Notification.permission !== "denied") {
+          Notification.requestPermission().then(function (permission) {
+            if (permission === "granted") {
+              new Notification(title, {
+                body,
+                icon: "../assets/telegram.jpeg",
+                badge: "../assets/webWeekly.png",
+              });
+            }
+          });
+        }
+      });
+    </script>
+  </body>
+</html>

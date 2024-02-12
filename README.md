@@ -19,6 +19,8 @@ Telegram channel to be updated:
 
 ## Demo links
 
+[Notification](./notofication/notification.html)
+
 [speechRecognition](./speechRecognition/index.html) - In Hebrew:
 למעלה / למטה / לך להתחלה / לך לסוף
 

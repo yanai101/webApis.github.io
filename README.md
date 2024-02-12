@@ -28,6 +28,8 @@ Telegram channel to be updated:
 
 [webXr - \<model-viewer\> element](./webXr/index.html)
 
+[SpeechSynthesis dad-jocks](./speechSynthesis/synthesis.html)
+
 ## Links
 
 [SpeechSynthesis](https://mdn.github.io/dom-examples/web-speech-api/speak-easy-synthesis/)

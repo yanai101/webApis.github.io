@@ -21,18 +21,22 @@
     </style>
     <script>
       // Vibrate with the rhythm of Star Wars
-      function vibrateWithStarWarsRhythm() {
-        alert("Vibrate with the rhythm of Star Wars");
-        const rhythm = [
-          200, 100, 200, 100, 200, 400, 200, 100, 200, 100, 200, 400, 200, 100, 200, 100, 200, 800, 200, 100, 200, 100, 200, 400, 200, 100, 200, 100, 200, 400, 200, 100, 200, 100,
-          200, 800,
-        ];
-        navigator.vibrate(rhythm);
+      if ("vibrate" in navigator) {
+        function vibrateWithStarWarsRhythm() {
+          const rhythm = [
+            200, 100, 200, 100, 200, 400, 200, 100, 200, 100, 200, 400, 200, 100, 200, 100, 200, 800, 200, 100, 200, 100, 200, 400, 200, 100, 200, 100, 200, 400, 200, 100, 200,
+            100, 200, 800,
+          ];
+          navigator.vibrate(rhythm);
+        }
+      } else {
+        document.querySelector(".support").innerHTML = "Vibration API not supported";
       }
     </script>
   </head>
   <body>
     <h1>Star Wars Vibration</h1>
+    <div class="support"></div>
     <button onclick="vibrateWithStarWarsRhythm()">Click to Vibrate</button>
   </body>
 </html>

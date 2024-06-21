@@ -32,6 +32,8 @@ Telegram channel to be updated:
 
 [SpeechSynthesis dad-jocks](./speechSynthesis/synthesis.html)
 
+[HTML attribute: capture](./deviceAccsess/index.html)
+
 ## Links
 
 [SpeechSynthesis](https://mdn.github.io/dom-examples/web-speech-api/speak-easy-synthesis/)

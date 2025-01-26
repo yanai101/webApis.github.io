@@ -18,20 +18,32 @@
   <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
   <body>
       <!-- Use it like any other HTML element -->
-      <model-viewer
+<!--       <model-viewer
         class="model-viewer"
         alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum"
         ar
         shadow-intensity="1"
         camera-controls
         touch-action="pan-y"
-      ></model-viewer>
+      ></model-viewer> -->
+<!--     https://modelviewer.dev/editor/ -->
+      <model-viewer 
+        src="Glorious_Esboo-Bojo.glb" 
+        ar 
+        ar-modes="scene-viewer webxr quick-look" 
+        camera-controls 
+        tone-mapping="neutral" 
+        poster="poster.webp" 
+        shadow-intensity="0.4" 
+        camera-orbit="14.85deg 95.74deg 356.2m" 
+        field-of-view="30deg" 
+        exposure="1.44"> </model-viewer>
     </div>
     <script>
-      const modelViewer = document.querySelector('.model-viewer');
-      const modelArray = ['./techAhikeColor.glb', './techAhike.glb', './nwd.glb','./nwdColor.glb'];
-      const randomModel = modelArray[Math.floor(Math.random() * modelArray.length)];
-      modelViewer.setAttribute('src', randomModel);
-    </script>
+    //   const modelViewer = document.querySelector('.model-viewer');
+    //   const modelArray = ['./techAhikeColor.glb', './techAhike.glb', './nwd.glb','./nwdColor.glb'];
+    //   const randomModel = modelArray[Math.floor(Math.random() * modelArray.length)];
+    //   modelViewer.setAttribute('src', randomModel);
+    // </script>
   </body>
 </html>
